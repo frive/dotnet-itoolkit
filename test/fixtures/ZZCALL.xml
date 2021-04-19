@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<script>
+  <pgm name="ZZCALL" lib="XMLSERVICE">
+    <parm  io="both">
+      <data type="1a" prop="InCharA">a</data>
+    </parm>
+    <parm  io="both">
+      <data type="1a" prop="InCharB"><![CDATA[>]]></data>
+    </parm>
+    <parm  io="both">
+      <data type="7p4" prop="InDec1">11.1111</data>
+    </parm>
+    <parm  io="both">
+      <data type="12p2" prop="InDec2">222.22</data>
+    </parm>
+    <parm  io="both">
+      <ds prop="ZZCALLDs">
+         <data type="1a" prop="DsCharA">x</data>
+         <data type="1a" prop="DsCharB"><![CDATA[<]]></data>
+         <data type="7p4" prop="DsDec1">66.6666</data>
+         <data type="12p2" prop="DsDec2">77777.77</data>
+      </ds>
+    </parm>
+  </pgm>
+</script>

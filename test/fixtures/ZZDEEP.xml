@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<script>
+  <pgm lib="ELIR" name="ZZDEEP">
+    <parm>
+      <ds prop="INDS1">
+        <data type="10i0" prop="I1">1</data>
+        <data type="10a" prop="C2">C</data>
+        <data type="12p2" prop="P1">0</data>
+        <data type="12s2" prop="Z2">0</data>
+        <ds dim="2" prop="D2">
+          <data type="10i" prop="I1">1</data>
+          <data type="10a" prop="C2">C</data>
+          <data type="12p2" prop="P1">0</data>
+          <data type="12s2" prop="Z2">0</data>
+          <ds dim="3" prop="D3">
+            <data type="10i" prop="I1">1</data>
+            <data type="10a" prop="C2">C</data>
+            <data type="12p2" prop="P1">0</data>
+            <data type="12s2" prop="Z2">0</data>
+            <ds dim="4" prop="D4">
+              <data type="10i" prop="I1">1</data>
+              <data type="10a" prop="C2">C</data>
+              <data type="12p2" prop="P1">0</data>
+              <data type="12s2" prop="Z2">0</data>
+              <ds dim="5" prop="D5">
+                <data type="10i" prop="I1">1</data>
+                <data type="10a" prop="C2">C</data>
+                <data type="12p2" prop="P1">0</data>
+                <data type="12s2" prop="Z2">0</data>
+                <data type="8f" prop="R2">0</data>
+                <data type="4f" prop="R3">0</data>
+              </ds>
+            </ds>
+          </ds>
+        </ds>
+        <ds dim="4" prop="D4">
+          <data type="10i0" prop="I1">1</data>
+          <data type="10a" prop="C2">C</data>
+          <data type="12p2" prop="P1">0</data>
+          <data type="12s2" prop="Z2">0</data>
+          <ds dim="5" prop="D5">
+            <data type="10i" prop="I1">1</data>
+            <data type="10a" prop="C2">C</data>
+            <data type="12p2" prop="P1">0</data>
+            <data type="12s2" prop="Z2">0</data>
+            <data type="8f" prop="R2">0</data>
+            <data type="4f" prop="R3">0</data>
+          </ds>
+        </ds>
+        <ds prop="D5">
+          <data type="10i" prop="I1">1</data>
+          <data type="10a" prop="C2">C</data>
+          <data type="12p2" prop="P1">0</data>
+          <data type="12s2" prop="Z2">0</data>
+          <data type="8f" prop="R2">0</data>
+          <data type="4f" prop="R3">0</data>
+        </ds>
+        <ds prop="D6">
+          <data type="10i" prop="I1">1</data>
+          <data type="10a" prop="C2">C</data>
+          <data type="12p2" prop="P1">0</data>
+          <data type="12s2" prop="Z2">0</data>
+          <data type="8f" prop="R2">0</data>
+          <data type="4f" prop="R3">0</data>
+        </ds>
+        <data type="8f" prop="R2">1.1</data>
+        <data type="4f" prop="R3">1.1</data>
+        <data type="60a" prop="C3">C</data>
+        <data type="12s3" prop="Z3">0</data>
+        <data type="12s4" prop="Z4">0</data>
+      </ds>
+    </parm>
+  </pgm>
+</script>

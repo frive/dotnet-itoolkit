@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<script>
+  <cmd exec="rexx">
+    <success>+++ success RTVJOBA JOB(?) USER(?) NBR(?)</success>
+    <row>
+      <data desc='JOB'>QZDASOINIT</data>
+    </row>
+    <row>
+      <data desc='USER'>QUSER</data>
+    </row>
+    <row>
+      <data desc='NBR'>332973</data>
+    </row>
+  </cmd>
+</script>
